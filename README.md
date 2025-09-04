@@ -115,12 +115,12 @@ Example:
  Color formatting highlights high vs. low spends for quick spotting.
  Purpose: Allows deep-dive into specific categories and months to pinpoint unusual spikes.
 
-Business Impact of Expense Dashboard
+*Business Impact of Expense Dashboard*:
 1. Improved Financial Visibility
 Consolidates all expenses into one dashboard, eliminating the need to check multiple statements or reports.
 Provides a real-time, holistic view of spends, balances, and credit usage.
 
-3. Better Cost Control
+2. Better Cost Control
    By analyzing monthly and category-wise spending, businesses/individuals can identify overspending areas (e.g., Bills, Credit Card, Others).
    Enables proactive action like renegotiating vendor bills, cutting unnecessary costs, or adjusting budgets.
 
